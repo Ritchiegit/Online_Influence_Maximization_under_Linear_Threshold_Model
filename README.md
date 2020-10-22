@@ -59,4 +59,4 @@ To evaluate my model, we draw the average reward of algs.
 <img src="\SimulationResults\gaussian_9_ER_paper\Reward\Average2WithErrorBar.png" style="zoom:50%;" /> <img src="\SimulationResults\gaussian_12_ER_paper\Reward\Average2WithErrorBar.png" style="zoom:50%;" />
 
 
-"# Online_Influence_Maximization_under_Linear_Threshold_Model" 
+
