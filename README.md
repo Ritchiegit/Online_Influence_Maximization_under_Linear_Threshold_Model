@@ -54,9 +54,9 @@ python Main.py --is_bipartite --seed_size 5 --iterationTimes 22000 --save_addres
 
 To evaluate my model, we draw the average reward of algs.
 
-<img src="\SimulationResults\BinarySelect2_2010_2d_paper\Reward\Average2WithErrorBar.png" style="zoom:50%;" /> <img src="\SimulationResults\BinarySelect2_100100_2d_paper\Reward\Average2WithErrorBar.png" style="zoom:50%;" />
+<img src="SimulationResults/BinarySelect2_2010_2d_paper/Reward/Average2WithErrorBar.png" style="zoom:50%;" /> <img src="SimulationResults/BinarySelect2_100100_2d_paper/Reward/Average2WithErrorBar.png" style="zoom:50%;" />
 
-<img src="\SimulationResults\gaussian_9_ER_paper\Reward\Average2WithErrorBar.png" style="zoom:50%;" /> <img src="\SimulationResults\gaussian_12_ER_paper\Reward\Average2WithErrorBar.png" style="zoom:50%;" />
+<img src="SimulationResults/gaussian_9_ER_paper/Reward/Average2WithErrorBar.png" style="zoom:50%;" /> <img src="SimulationResults/gaussian_12_ER_paper/Reward/Average2WithErrorBar.png" style="zoom:50%;" />
 
 
 
